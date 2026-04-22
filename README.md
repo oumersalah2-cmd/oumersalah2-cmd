@@ -21,11 +21,11 @@
 
 **Languages & Frameworks:**
 - **Frontend:** React, Next.js, TypeScript, Tailwind CSS, JavaScript, HTML/CSS
-- **Backend:** Python, Django
+- **Backend:** Node.js, Express, Python, Django
 - **Desktop/Software:** Java, JavaFX
 
 **Core Competencies:**
-- Full-Stack Web Development
+- Full-Stack Web Development (MERN & Django)
 - Object-Oriented Programming (OOP)
 - RESTful APIs & Database Management
 - Algorithmic Problem Solving & DSA
@@ -35,7 +35,7 @@
 ### 🔭 What I'm Currently Working On
 
 - **Ethio Bucks:** Developing the backend architecture and deployment pipelines for a Django-based finance project.
-- **Tutor Marketplace:** Architecting a localized platform for the Ethiopian market using modern frontend tech (like Next.js and Tailwind) to connect students with academic instructors, complete with CV uploads and payment integration.
+- **Tutor Marketplace:** Architecting a localized platform for the Ethiopian market using modern frontend tech (like Next.js and Tailwind) to connect students with academic instructors.
 - **Algorithm Mastery:** Continuously solving DSA challenges to write cleaner, more efficient code.
 
 ---
@@ -44,8 +44,8 @@
 
 I'm always open to collaborating on innovative projects, discussing system architecture, or exploring new freelance opportunities. 
 
-- 💬 **Ask me about:** React, Next.js, TypeScript, Django, or navigating the freelance space.
-- 🤝 **Freelance:** Available for full-stack web development projects (find me on Upwork!).
+- 💬 **Ask me about:** React, Next.js, Node.js, Django, or navigating the freelance space.
+- 🤝 **Freelance:** Available for full-stack web development projects.
 
 <br/>
 <p align="center"><i>"Code is like humor. When you have to explain it, it’s bad."</i></p>
