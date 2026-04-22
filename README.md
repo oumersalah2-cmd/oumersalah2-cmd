@@ -1,51 +1,32 @@
-<h1 align="center">Hi there, I'm Abdusalam! 👋</h1>
-<h3 align="center">Software Engineering Student @ Addis Ababa University | Full-Stack Developer | DSA Enthusiast</h3>
+<h1 align="center">Hi, I'm Abdusalam 👋</h1>
+<p align="center">
+  <b>Software Engineering Student @ Addis Ababa University</b><br>
+  Full-Stack Developer | Freelancer | DSA Enthusiast
+</p>
 
 <p align="center">
-  Welcome to my GitHub! I'm a passionate developer from Ethiopia who loves turning complex problems into elegant, scalable solutions. Whether it's crafting responsive frontends, architecting robust backends, or optimizing algorithms, I'm always eager to build and learn.
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
 ---
 
-### 🚀 About Me
+### 🛠️ Tech Stack
+* **Frontend:** React, Next.js, TypeScript, Tailwind CSS
+* **Backend:** Node.js, Express, Django, Python
+* **Software:** Java, JavaFX (OOP)
+* **Core:** Data Structures & Algorithms, RESTful APIs
 
-- 🎓 Currently studying **Software Engineering** at Addis Ababa University.
-- 💻 Building comprehensive full-stack web applications and diving deep into **Data Structures & Algorithms (DSA)**.
-- 🌍 Passionate about creating digital solutions for the local market, including dynamic educational marketplaces and finance platforms.
-- 💼 Actively working as a freelance web developer, bringing client ideas to life.
-- 🌱 Constantly learning and expanding my toolkit to build highly performant, modern software.
+### 🚀 Projects in Progress
+* **Ethio Bucks:** A Django-powered backend for financial services.
+* **Tutor Marketplace:** A Next.js platform connecting Ethiopian students with instructors.
+* **DSA Practice:** Mastering efficient problem-solving one challenge at a time.
 
----
+### 📫 Connect with Me
+- 💼 **Freelance:** Available for Web Development projects.
+- 💬 **Ask me about:** Full-stack architecture or building for the Ethiopian market.
 
-### 🛠️ Tech Stack & Tools
-
-**Languages & Frameworks:**
-- **Frontend:** React, Next.js, TypeScript, Tailwind CSS, JavaScript, HTML/CSS
-- **Backend:** Node.js, Express, Python, Django
-- **Desktop/Software:** Java, JavaFX
-
-**Core Competencies:**
-- Full-Stack Web Development (MERN & Django)
-- Object-Oriented Programming (OOP)
-- RESTful APIs & Database Management
-- Algorithmic Problem Solving & DSA
-
----
-
-### 🔭 What I'm Currently Working On
-
-- **Ethio Bucks:** Developing the backend architecture and deployment pipelines for a Django-based finance project.
-- **Tutor Marketplace:** Architecting a localized platform for the Ethiopian market using modern frontend tech (like Next.js and Tailwind) to connect students with academic instructors.
-- **Algorithm Mastery:** Continuously solving DSA challenges to write cleaner, more efficient code.
-
----
-
-### 📫 Let's Connect!
-
-I'm always open to collaborating on innovative projects, discussing system architecture, or exploring new freelance opportunities. 
-
-- 💬 **Ask me about:** React, Next.js, Node.js, Django, or navigating the freelance space.
-- 🤝 **Freelance:** Available for full-stack web development projects.
-
-<br/>
-<p align="center"><i>"Code is like humor. When you have to explain it, it’s bad."</i></p>
+<p align="center"><i>Building scalable solutions, one commit at a time.</i></p>
