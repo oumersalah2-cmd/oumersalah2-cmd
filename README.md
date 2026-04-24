@@ -26,32 +26,34 @@ I write clean, efficient code and I ship on time.
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-0c1f3f?style=flat-square&logo=react&logoColor=79c0ff)
-![Next.js](https://img.shields.io/badge/Next.js-161b22?style=flat-square&logo=next.js&logoColor=e6edf3)
-![TypeScript](https://img.shields.io/badge/TypeScript-0c1f3f?style=flat-square&logo=typescript&logoColor=79c0ff)
-![JavaScript](https://img.shields.io/badge/JavaScript-2f1b00?style=flat-square&logo=javascript&logoColor=ffa657)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0c1f3f?style=flat-square&logo=tailwindcss&logoColor=79c0ff)
-![HTML](https://img.shields.io/badge/HTML%2FCSS-2f0f0f?style=flat-square&logo=html5&logoColor=ff7b72)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-0d2f1a?style=flat-square&logo=node.js&logoColor=3fb950)
-![Express](https://img.shields.io/badge/Express-0d2f1a?style=flat-square&logo=express&logoColor=3fb950)
-![Django](https://img.shields.io/badge/Django-0d2f1a?style=flat-square&logo=django&logoColor=3fb950)
-![Python](https://img.shields.io/badge/Python-0d2f1a?style=flat-square&logo=python&logoColor=3fb950)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **Databases**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2f1b00?style=flat-square&logo=postgresql&logoColor=ffa657)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d2f1a?style=flat-square&logo=mongodb&logoColor=3fb950)
-![MySQL](https://img.shields.io/badge/MySQL-2f1b00?style=flat-square&logo=mysql&logoColor=ffa657)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Core**
 
-![Java](https://img.shields.io/badge/Java-2f1b00?style=flat-square&logo=openjdk&logoColor=ffa657)
-![JavaFX](https://img.shields.io/badge/JavaFX-2f1b00?style=flat-square&logo=openjdk&logoColor=ffa657)
-![DSA](https://img.shields.io/badge/DSA%20%C2%B7%20Algorithms-1a0f2e?style=flat-square&logoColor=d2a8ff)
-![Git](https://img.shields.io/badge/Git-2f0f0f?style=flat-square&logo=git&logoColor=ff7b72)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA_%C2%B7_Algorithms-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
