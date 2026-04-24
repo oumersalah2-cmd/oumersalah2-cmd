@@ -11,7 +11,7 @@
 ### About Me
 
 I build complete web systems from database schema to responsive UI.
-3 full-stack apps shipped, 4 frontend projects delivered, and a Java desktop LMS —
+4 full-stack apps shipped, 4 frontend projects delivered, and a Java desktop LMS —
 all while studying Software Engineering at Addis Ababa University.
 I write clean, efficient code and I ship on time.
 
