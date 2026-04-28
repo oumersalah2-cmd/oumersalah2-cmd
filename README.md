@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=238636&height=120&section=header&text=Abdusalam&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20AAU%20Software%20Engineering&descAlignY=58&descColor=8b949e" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=3FB950&center=true&vCenter=true&width=600&lines=Building+scalable+systems+from+schema+to+UI;3+full-stack+apps+%C2%B7+4+frontend+projects+%C2%B7+1+Java+LMS;Daily+LeetCode+%C2%B7+Codeforces+%C2%B7+HackerRank+grinder;Open+to+remote+work+%C2%B7+global+collaborations)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=3FB950&center=true&vCenter=true&width=600&lines=Building+scalable+systems+from+schema+to+UI;3+full-stack+apps+%C2%B7+10++frontend+projects+%C2%B7+1+Java+LMS;Daily+LeetCode+%C2%B7+Codeforces+%C2%B7+HackerRank+grinder;Open+to+remote+work+%C2%B7+global+collaborations)](https://git.io/typing-svg)
 
 </div>
 
