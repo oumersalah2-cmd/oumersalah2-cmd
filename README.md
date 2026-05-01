@@ -89,8 +89,3 @@ I write clean, efficient code and I ship on time.
 - 🌐 Open to: **Remote freelance · Global collaborations · Backend, Frontend, or Full-Stack**
 
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=238636&height=80&section=footer" width="100%"/>
-  <i>Building scalable solutions, one commit at a time. 🇪🇹</i>
-</div>
