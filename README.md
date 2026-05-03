@@ -10,11 +10,11 @@
 
 ## About Me
 
-I build complete web systems — from database schema design to responsive, production-ready UI.
+I build complete web systems  from database schema design to responsive, production-ready UI.
 
 Currently studying **Software Engineering at Addis Ababa University** while shipping real projects: 10+ full-stack apps, 10+ frontend builds, and a Java desktop LMS. I write clean, efficient code and I ship on time.
 
-- 🎓 **Software Engineering** — Addis Ababa University (AAU), CTBE
+- 🎓 **Software Engineering**  Addis Ababa University (AAU), CTBE
 - 🌍 Building for the **Ethiopian market and beyond**
 - 🧠 Daily grinder on **LeetCode · Codeforces · HackerRank** — 2+ months consistent
 - 💡 Interested in **AI integration, civic tech, and scalable backend systems**
