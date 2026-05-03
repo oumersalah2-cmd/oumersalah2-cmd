@@ -65,27 +65,10 @@ Currently studying **Software Engineering at Addis Ababa University** while ship
 | [**Consult AI**](https://v0-consult-ai-five.vercel.app/) | Bilingual AI assistant (English/Amharic) guiding Ethiopian users through government & institutional processes. Real-time Gemini 2.0 responses, community contributions, Google Maps links. | Next.js · TypeScript · Tailwind · Gemini API |
 | [**Ethio Bucks**](https://abdusalam.pythonanywhere.com/tasks/register/) | Secure financial services backend for the Ethiopian market — authentication, transactions, account management. | Python · Django · PostgreSQL |
 | [**Tutor Marketplace**](https://lamif-platform.vercel.app/) | Student–instructor platform with profile matching, booking system, and real-time availability. | React · Node.js · MongoDB |
-| **AAU Café & Stipend System** | Campus café management system — digital meal attendance, monthly cash payments, dual-use fraud prevention, year-by-year student tracking. | Node.js · PostgreSQL · Vanilla JS |
+| [**AAU Café & Stipend System**](https://addis-ababa-university-cafe-management.onrender.com/) | Campus café management system — digital meal attendance, monthly cash payments, dual-use fraud prevention, year-by-year student tracking. | Node.js · PostgreSQL · Vanilla JS |
 | **LMS (Desktop)** | Learning Management System built with OOP architecture — course management, student tracking, grading. | Java · JavaFX |
 | **Frontend Projects ×4+** | Responsive UIs, landing pages, and interactive components. | HTML · CSS · JavaScript |
 | **DSA Practice** | Daily algorithmic problem solving — 2+ months consistent across platforms. | Python · LeetCode · Codeforces · HackerRank |
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=oumersalah2-cmd&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=8b949e&include_all_commits=true&count_private=true" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=oumersalah2-cmd&theme=github-dark-blue&hide_border=true&background=0d1117&ring=238636&fire=3fb950&currStreakLabel=3fb950" width="49%" />
-
-</div>
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oumersalah2-cmd&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=8b949e&count_private=true" width="40%" />
-
-</div>
 
 ---
 
