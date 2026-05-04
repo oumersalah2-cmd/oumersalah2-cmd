@@ -16,7 +16,7 @@ Currently studying **Software Engineering at Addis Ababa University** while ship
 
 - 🎓 **Software Engineering**  Addis Ababa University (AAU), CTBE
 - 🌍 Building for the **Ethiopian market and beyond**
-- 🧠 Daily grinder on **LeetCode · Codeforces · HackerRank** — 2+ months consistent
+- 🧠 Daily grinder on **LeetCode · Codeforces · HackerRank** 
 - 💡 Interested in **AI integration, civic tech, and scalable backend systems**
 - 🌐 Open to **remote freelance and global collaborations**
 
