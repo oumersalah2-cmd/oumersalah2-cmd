@@ -68,7 +68,7 @@ Currently studying **Software Engineering at Addis Ababa University** while ship
 | [**AAU Café & Stipend System**](https://addis-ababa-university-cafe-management.onrender.com/) | Campus café management system — digital meal attendance, monthly cash payments, dual-use fraud prevention, year-by-year student tracking. | Node.js · PostgreSQL · Vanilla JS |
 | **LMS (Desktop)** | Learning Management System built with OOP architecture — course management, student tracking, grading. | Java · JavaFX |
 | **Frontend Projects ×4+** | Responsive UIs, landing pages, and interactive components. | HTML · CSS · JavaScript |
-| **DSA Practice** | Daily algorithmic problem solving — 2+ months consistent across platforms. | Python · LeetCode · Codeforces · HackerRank |
+| **DSA Practice** | Daily algorithmic problem solving  | Python · LeetCode · Codeforces · HackerRank |
 
 ---
 
