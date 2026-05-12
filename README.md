@@ -58,19 +58,7 @@ Currently studying **Software Engineering at Addis Ababa University** while ship
 
 ---
 
-## Shipped Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**Consult AI**](https://v0-consult-ai-five.vercel.app/) | Bilingual AI assistant (English/Amharic) guiding Ethiopian users through government & institutional processes. Real-time Gemini 2.0 responses, community contributions, Google Maps links. | Next.js · TypeScript · Tailwind · Gemini API |
-| [**Ethio Bucks**](https://abdusalam.pythonanywhere.com/tasks/register/) | Secure financial services backend for the Ethiopian market — authentication, transactions, account management. | Python · Django · PostgreSQL |
-| [**Tutor Marketplace**](https://lamif-platform.vercel.app/) | Student–instructor platform with profile matching, booking system, and real-time availability. | React · Node.js · MongoDB |
-| [**AAU Café & Stipend System**](https://addis-ababa-university-cafe-management.onrender.com/) | Campus café management system — digital meal attendance, monthly cash payments, dual-use fraud prevention, year-by-year student tracking. | Node.js · PostgreSQL · Vanilla JS |
-| **LMS (Desktop)** | Learning Management System built with OOP architecture — course management, student tracking, grading. | Java · JavaFX |
-| **Frontend Projects ×4+** | Responsive UIs, landing pages, and interactive components. | HTML · CSS · JavaScript |
-| **DSA Practice** |  algorithmic problem solving  | Python · LeetCode · Codeforces · HackerRank |
-
----
 
 ## Let's Connect
 
