@@ -8,7 +8,7 @@
 
 ## 👋 Hi, I'm Abdusalam
 
-Full-Stack Developer specializing in **Next.js**, **Supabase**, and **AI integration**. I build production-ready web systems end to end — from PostgreSQL schema design to responsive UI — and I ship on time.
+Full-Stack Developer specializing in **Next.js**, **Supabase**, and **AI integration**. I build production-ready web systems end to end  from PostgreSQL schema design to responsive UI and I ship on time.
 
 My edge is the combination of full-stack delivery and algorithmic discipline. I solve problems daily on LeetCode and Codeforces. That habit shows up in every architecture decision I make.
 
