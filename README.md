@@ -1,38 +1,40 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=238636&height=130&section=header&text=Abdusalam+Oumer&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack+Developer+%C2%B7+Next.js+%C2%B7+Supabase+%C2%B7+AI+Integration&descAlignY=58&descColor=8b949e" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=238636&height=130&section=header&text=Abdusalam+Oumer&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack+Developer+%C2%B7+Software+Engineering+%40+AAU&descAlignY=58&descColor=8b949e" width="100%"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=3FB950&center=true&vCenter=true&width=650&lines=Full-stack+from+schema+to+UI+%E2%80%94+PostgreSQL+to+Next.js;Shipped+10%2B+full-stack+apps+%C2%B7+10%2B+frontend+projects;Built+a+bilingual+AI+app+serving+Ethiopian+users;Daily+LeetCode+%C2%B7+Codeforces+%C2%B7+HackerRank+grinder;Open+to+remote+freelance+%C2%B7+global+collaborations)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=3FB950&center=true&vCenter=true&width=650&lines=Next.js+%C2%B7+Supabase+%C2%B7+Node.js+%C2%B7+AI+Integration;Built+a+live+AI+bot+serving+Ethiopian+farmers;Full-stack+from+schema+to+UI+%E2%80%94+PostgreSQL+to+Next.js;Daily+LeetCode+%C2%B7+Codeforces+%C2%B7+HackerRank+grinder;Open+to+remote+freelance+%C2%B7+global+collaborations)](https://git.io/typing-svg)
 </div>
 
 ---
 
-## About Me
+## 👋 Hi, I'm Abdusalam
 
-I build complete web systems  from database schema design to responsive, production-ready UI.
+Full-Stack Developer specializing in **Next.js**, **Supabase**, and **AI integration**. I build production-ready web systems end to end — from PostgreSQL schema design to responsive UI — and I ship on time.
 
-Currently studying **Software Engineering at Addis Ababa University** while shipping real projects: 10+ full-stack apps, 10+ frontend builds, and a Java desktop LMS. I write clean, efficient code and I ship on time.
-
-- 🎓 **Software Engineering**  Addis Ababa University (AAU), CTBE
-- 🌍 Building for the **Ethiopian market and beyond**
-- 🧠 Daily grinder on **LeetCode · Codeforces · HackerRank** 
-- 💡 Interested in **AI integration, civic tech, and scalable backend systems**
-- 🌐 Open to **remote freelance and global collaborations**
+My edge is the combination of full-stack delivery and algorithmic discipline. I solve problems daily on LeetCode and Codeforces. That habit shows up in every architecture decision I make.
 
 ---
 
-## Tech Stack
+## 💼 What I Build
+
+- **Next.js full-stack apps** — SSR, SSG, App Router, server components
+- **Supabase backends** — PostgreSQL schema, Row Level Security, real-time, auth
+- **AI-powered features** — Groq, Gemini, OpenAI including bilingual NLP for Amharic
+- **Telegram and WhatsApp bots** — AI vision, multilingual support, production deployed
+- **Financial backends** — transaction systems, fraud prevention, scalable APIs
+- **Marketplace platforms** — booking logic, matching systems, real-time features
+- **REST API design** — integration, documentation, clean architecture
+
+---
+
+## 🛠️ Tech Stack
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Backend**
 
@@ -41,30 +43,56 @@ Currently studying **Software Engineering at Addis Ababa University** while ship
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**Databases**
+**Databases & Cloud**
 
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Tools & Core**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+**AI & Integrations**
+
+![Groq AI](https://img.shields.io/badge/Groq_AI-F55036?style=flat-square&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![Telegram Bot](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA_%C2%B7_Algorithms-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
+## 💬 Let's Talk About
 
+- **Next.js** — App Router, SSR, SSG, server components, full-stack patterns
+- **Supabase** — real-time databases, auth, Row Level Security, edge functions
+- **AI Integration** — Groq, Gemini, OpenAI, bilingual NLP, vision models
+- **Full-stack architecture** — clean APIs, scalable backends, production deployments
+- **Building for Ethiopia** — local language support, civic tech, market-specific products
 
-## Let's Connect
+---
 
-- 💬 Ask me about: **Full-stack architecture · Django · Next.js · AI integration · Building for Ethiopia**
-- 🤝 Open to: **Remote freelance · Global collaborations · Backend, Frontend, or Full-Stack roles**
-- 📫 Reach me via GitHub or DM
+## ⚡ Fun Facts
+
+- 🌱 Built a live AI bot that speaks **Amharic and Afaan Oromo** — shipped in 7 days
+- 🧠 I treat every project like a DSA problem — **understand first, then build**
+- 🌍 I build for the **Ethiopian market** but think globally
+- 🔥 I don't just integrate AI — I prompt-engineer it to **speak local languages**
+- 🏗️ My database schemas are designed **before** the first line of backend code
+- ☕ Powered by Ethiopian coffee — the original fuel of great ideas
+
+---
+
+## 🤝 Open To
+
+Remote freelance · Global collaborations · Backend, Frontend, or Full-Stack roles
+
+📫 Reach me via GitHub or DM
 
 ---
 
