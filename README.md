@@ -22,7 +22,7 @@ My edge is the combination of full-stack delivery and algorithmic discipline. I 
 - **Telegram and WhatsApp bots** — AI vision, multilingual support, production deployed
 - **Financial backends** — transaction systems, fraud prevention, scalable APIs
 - **Marketplace platforms** — booking logic, matching systems, real-time features
-- **REST API design** — integration, documentation, clean architecture
+- **REST API design** — integration, documentation, clean architecture.
 
 ---
 
