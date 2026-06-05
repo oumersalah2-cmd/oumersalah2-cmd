@@ -81,7 +81,7 @@ My edge is the combination of full-stack delivery and algorithmic discipline. I 
 
 - 🌱 Built a live AI bot that speaks **Amharic and Afaan Oromo** — shipped in 7 days
 - 🧠 I treat every project like a DSA problem — **understand first, then build**
-- 🌍 I build for the **Ethiopian market** but think globally
+- 🌍 I build 
 - 🔥 I don't just integrate AI — I prompt-engineer it to **speak local languages**
 - 🏗️ My database schemas are designed **before** the first line of backend code
 - ☕ Powered by Ethiopian coffee — the original fuel of great ideas
