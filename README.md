@@ -1,10 +1,4 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=238636&height=130&section=header&text=Abdusalam+Oumer&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack+Developer+%C2%B7+Next.js+%C2%B7+Supabase+%C2%B7+AI+Integration&descAlignY=58&descColor=8b949e" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=3FB950&center=true&vCenter=true&width=650&lines=Next.js+%C2%B7+Supabase+%C2%B7+Node.js+%C2%B7+AI+Integration;Built+a+live+AI+bot+serving+Ethiopian+farmers;Full-stack+from+schema+to+UI+%E2%80%94+PostgreSQL+to+Next.js;Daily+LeetCode+%C2%B7+Codeforces+%C2%B7+HackerRank+grinder;Open+to+remote+freelance+%C2%B7+global+collaborations)](https://git.io/typing-svg)
-</div>
-
----
 
 ## 👋 Hi, I'm Abdusalam
 
