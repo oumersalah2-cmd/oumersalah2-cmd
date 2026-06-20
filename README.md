@@ -88,8 +88,4 @@ Remote freelance · Global collaborations · Backend, Frontend, or Full-Stack ro
 
 📫 Reach me via GitHub or DM
 
----
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=238636&height=80&section=footer" width="100%"/>
-</div>
