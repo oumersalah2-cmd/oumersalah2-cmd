@@ -16,7 +16,7 @@ My edge is the combination of full-stack delivery and algorithmic discipline. I 
 - **Marketplace platforms** — booking logic, matching systems, real-time features
 - **REST API design** — integration, documentation, clean architecture.
 
----
+
 
 ## 🛠️ Tech Stack
 
